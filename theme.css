@@ -1,0 +1,21 @@
+li{
+    font-size: 2rem;
+    color: darkolivegreen;
+    border: dashed firebrick 1px;
+    margin-left: 50%;
+}
+ul{
+    background: cornsilk;
+}
+form{
+    background: deeppink;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.formstuff{
+    text-align: center;
+}
+.subbutt{
+    background-color: darkred;
+    border: none;
+}
