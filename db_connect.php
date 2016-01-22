@@ -11,7 +11,7 @@
     $host = "127.0.0.1";
 
 
-    mysql_connect($host,$un, $pw) or die (mysql_error());
+    $conn = mysql_connect($host,$un, $pw) or die (mysql_error());
     echo("Connected to DB ". $db_name . "<br>");
     mysql_select_db($db_name) or die (mysql_error());
     echo("Connected to testdb"."<br>");

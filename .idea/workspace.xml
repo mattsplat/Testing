@@ -22,18 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="testing.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testing.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.384615">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#89#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/form.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -54,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db_connect.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="db_connect.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db_connect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23287672">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state vertical-scroll-proportion="-11.115385">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,10 +55,34 @@
       <file leaf-file-name="dbindex.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dbindex.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.076923">
-              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+            <state vertical-scroll-proportion="-1.9615384">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
               <folding>
                 <marker date="1453416583857" expanded="true" signature="130:152" placeholder="SELECT * FRO... employee" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db_sqli_connect.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysqli/db_sqli_connect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.038462">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="e#6#88#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbindex_sqli.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysqli/dbindex_sqli.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.8846154">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding>
+                <marker date="1453433921865" expanded="true" signature="134:156" placeholder="SELECT * FRO... employee" />
               </folding>
             </state>
           </provider>
@@ -79,9 +91,21 @@
       <file leaf-file-name="insert.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/insert.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2692308">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state vertical-scroll-proportion="-1.9615384">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insert_sqli.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysqli/insert_sqli.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.423077">
+              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+              <folding>
+                <element signature="e#6#89#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,32 +113,33 @@
       <file leaf-file-name="insert_process.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/insert_process.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.346153">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state vertical-scroll-proportion="-3.2692308">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding>
-                <element signature="e#6#89#0#PHP" expanded="true" />
-                <marker date="1453419968819" expanded="true" signature="368:400" placeholder="INSERT INTO employee... " />
-                <marker date="1453419968819" expanded="true" signature="368:442" placeholder="INSERT INTO employee... " />
-                <marker date="1453419968819" expanded="true" signature="368:443" placeholder="INSERT INTO employee... " />
-                <marker date="1453419968819" expanded="true" signature="368:455" placeholder="INSERT INTO employee... " />
-                <marker date="1453419968819" expanded="true" signature="368:456" placeholder="INSERT INTO employee... " />
-                <marker date="1453419968819" expanded="true" signature="368:510" placeholder="INSERT INTO employee... " />
-                <marker date="1453419968819" expanded="true" signature="368:570" placeholder="INSERT INTO employee... " />
-                <marker date="1453419968819" expanded="true" signature="368:628" placeholder="INSERT INTO employee... " />
-                <marker date="1453419968819" expanded="true" signature="368:683" placeholder="INSERT INTO employee... " />
-                <marker date="1453419968819" expanded="true" signature="368:684" placeholder="INSERT INTO employee... " />
-                <marker date="1453419968819" expanded="true" signature="368:686" placeholder="INSERT INTO employee... " />
+                <marker date="1453432811829" expanded="true" signature="368:400" placeholder="INSERT INTO employee... " />
+                <marker date="1453432811829" expanded="true" signature="368:442" placeholder="INSERT INTO employee... " />
+                <marker date="1453432811829" expanded="true" signature="368:443" placeholder="INSERT INTO employee... " />
+                <marker date="1453432811829" expanded="true" signature="368:455" placeholder="INSERT INTO employee... " />
+                <marker date="1453432811829" expanded="true" signature="368:456" placeholder="INSERT INTO employee... " />
+                <marker date="1453432811829" expanded="true" signature="368:510" placeholder="INSERT INTO employee... " />
+                <marker date="1453432811829" expanded="true" signature="368:570" placeholder="INSERT INTO employee... " />
+                <marker date="1453432811829" expanded="true" signature="368:628" placeholder="INSERT INTO employee... " />
+                <marker date="1453432811829" expanded="true" signature="368:683" placeholder="INSERT INTO employee... " />
+                <marker date="1453432811829" expanded="true" signature="368:684" placeholder="INSERT INTO employee... " />
+                <marker date="1453432811829" expanded="true" signature="368:686" placeholder="INSERT INTO employee... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/theme.css">
+      <file leaf-file-name="insert_process_sqli.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysqli/insert_process_sqli.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2692308">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-              <folding />
+            <state vertical-scroll-proportion="0.5045662">
+              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+              <folding>
+                <marker date="1453435477228" expanded="true" signature="371:527" placeholder="INSERT INTO employee... " />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -138,8 +163,12 @@
         <option value="$PROJECT_DIR$/insert.php" />
         <option value="$PROJECT_DIR$/form.html" />
         <option value="$PROJECT_DIR$/testing.php" />
-        <option value="$PROJECT_DIR$/insert_process.php" />
         <option value="$PROJECT_DIR$/db_connect.php" />
+        <option value="$PROJECT_DIR$/insert_process.php" />
+        <option value="$PROJECT_DIR$/db_sqli_connect.php" />
+        <option value="$PROJECT_DIR$/dbindex_sqli.php" />
+        <option value="$PROJECT_DIR$/mysqli/insert_sqli.php" />
+        <option value="$PROJECT_DIR$/mysqli/insert_process_sqli.php" />
       </list>
     </option>
   </component>
@@ -203,6 +232,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysqli" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -215,6 +258,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\Testing\mysqli" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.insert.php">
     <configuration default="false" name="testing.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Testing/testing.php">
@@ -279,7 +327,7 @@
     <frame x="1912" y="-8" width="1296" height="1040" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2703125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.128125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -335,40 +383,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dbindex.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.076923">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        <state vertical-scroll-proportion="-1.9615384">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding>
             <marker date="1453416583857" expanded="true" signature="130:152" placeholder="SELECT * FRO... employee" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/insert.php">
+    <entry file="file://$PROJECT_DIR$/db_connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2692308">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state vertical-scroll-proportion="-11.115385">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/insert_process.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.346153">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-            <marker date="1453419968819" expanded="true" signature="368:400" placeholder="INSERT INTO employee... " />
-            <marker date="1453419968819" expanded="true" signature="368:442" placeholder="INSERT INTO employee... " />
-            <marker date="1453419968819" expanded="true" signature="368:443" placeholder="INSERT INTO employee... " />
-            <marker date="1453419968819" expanded="true" signature="368:455" placeholder="INSERT INTO employee... " />
-            <marker date="1453419968819" expanded="true" signature="368:456" placeholder="INSERT INTO employee... " />
-            <marker date="1453419968819" expanded="true" signature="368:510" placeholder="INSERT INTO employee... " />
-            <marker date="1453419968819" expanded="true" signature="368:570" placeholder="INSERT INTO employee... " />
-            <marker date="1453419968819" expanded="true" signature="368:628" placeholder="INSERT INTO employee... " />
-            <marker date="1453419968819" expanded="true" signature="368:683" placeholder="INSERT INTO employee... " />
-            <marker date="1453419968819" expanded="true" signature="368:684" placeholder="INSERT INTO employee... " />
-            <marker date="1453419968819" expanded="true" signature="368:686" placeholder="INSERT INTO employee... " />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -388,11 +415,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db_connect.php">
+    <entry file="file://$PROJECT_DIR$/mysqli/db_sqli_connect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23287672">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="-15.038462">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysqli/dbindex_sqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <marker date="1453433921865" expanded="true" signature="134:156" placeholder="SELECT * FRO... employee" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9615384">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_process.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1453432811829" expanded="true" signature="368:400" placeholder="INSERT INTO employee... " />
+            <marker date="1453432811829" expanded="true" signature="368:442" placeholder="INSERT INTO employee... " />
+            <marker date="1453432811829" expanded="true" signature="368:443" placeholder="INSERT INTO employee... " />
+            <marker date="1453432811829" expanded="true" signature="368:455" placeholder="INSERT INTO employee... " />
+            <marker date="1453432811829" expanded="true" signature="368:456" placeholder="INSERT INTO employee... " />
+            <marker date="1453432811829" expanded="true" signature="368:510" placeholder="INSERT INTO employee... " />
+            <marker date="1453432811829" expanded="true" signature="368:570" placeholder="INSERT INTO employee... " />
+            <marker date="1453432811829" expanded="true" signature="368:628" placeholder="INSERT INTO employee... " />
+            <marker date="1453432811829" expanded="true" signature="368:683" placeholder="INSERT INTO employee... " />
+            <marker date="1453432811829" expanded="true" signature="368:684" placeholder="INSERT INTO employee... " />
+            <marker date="1453432811829" expanded="true" signature="368:686" placeholder="INSERT INTO employee... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysqli/insert_sqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.423077">
+          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysqli/insert_process_sqli.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5045662">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <marker date="1453435477228" expanded="true" signature="371:527" placeholder="INSERT INTO employee... " />
+          </folding>
         </state>
       </provider>
     </entry>

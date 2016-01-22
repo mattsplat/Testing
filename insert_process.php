@@ -24,5 +24,6 @@ $sql= "INSERT INTO employee VALUES (''," .
                                     "'".$salary . "')";
 
 mysql_query($sql);
+mysql_close($conn);
 echo($sql);
 ?>
