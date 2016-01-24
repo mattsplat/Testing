@@ -7,13 +7,14 @@
 </head>
 <body>
 <?php
-    $to = 'matthewjohncoleman@gmail.com';
-    $subject = "Feedback";
-    $message = "hi";
-    $from = "Bob@fakemail.com";
-    $headers = "From:".$from;
-    mail($to,$subject, $message, $headers);
-    echo("Mail has been sent.");
+
+$to = 'matthewjohncoleman@gmail.com';
+$subject = "Feedback";
+$message = "hi";
+$from = "Bob@fakemail.com";
+$headers = "From:".$from;
+mail($to,$subject, $message, $headers) or die("failed");
+echo("Mail has been sent to ". $to . ' from '. $from);
 
 ?>
 </body>

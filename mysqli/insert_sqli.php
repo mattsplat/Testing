@@ -32,6 +32,7 @@
     <input type="submit" value="Save Information" />
 
 </form>
+<a href="dbindex_sqli.php">Edit</a>
 
 
 

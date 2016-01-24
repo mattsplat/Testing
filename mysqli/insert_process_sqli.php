@@ -14,14 +14,16 @@ $position = $_REQUEST['position'];
 $salary = $_REQUEST['salary'];
 
 echo($last. ' '. $first. ' '. $department. ' '. $position. ' '. $salary);
-
+/*
 $sql= "INSERT INTO employee VALUES (''," .
     "'".$last . "',".
     "'".$first . "',".
     "'".$department . "',".
     "'".$position . "',".
     "'".$salary . "')";
-
-mysqli_query($conn, $sql);
-mysqli_close($conn);
+*/
+// easier to read
+$sql= "insert into employee values ('','$last', '$first', '$department', '$position', '$salary') ";
 echo($sql);
+mysqli_query($conn, $sql) or die("failed");
+mysqli_close($conn);
